@@ -82,18 +82,6 @@
 | 4 | 3 | 1 | 0 | 75% Full Pass / 100% No Failures |
 ```
 
-**Save → Ctrl + S**
-
----
-
-## Now Push Everything to GitHub!
-
-Go to Command Prompt and type one by one:
-```
-git add .
 ```
 ```
-git commit -m "Add TC-001 to TC-004: GET API test cases with evidence"
-```
-```
-git push
+git pus
