@@ -82,15 +82,3 @@ Click the **"New Folder"** icon (it looks like a folder with a + sign) and creat
 5. `ai-assisted`
 
 ---
-
-# 🟢 STEP 9 — Push Everything to GitHub
-
-Go back to **Command Prompt** (the one already inside your repo folder) and type these one by one:
-```
-git add .
-```
-```
-git commit -m "Initial commit: README + folder structure"
-```
-```
-git push
